@@ -1,16 +1,22 @@
-# project04_repaired
+# ManufacturerINFO Repaired
 
-A new Flutter project.
+This application was created to search for the origin country of vehicle manufacturers.
 
-## Getting Started
+This app can only view the origins of a limited number of vehicles.
 
-This project is a starting point for a Flutter application.
+## Documentation
 
-A few resources to get you started if this is your first Flutter project:
+[How to use]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+You can type vehicle brand in the prompt.
+    ex: Toyota, Honda...
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Then hit the "Search" button.
+To see the search history, hit the "See search history" button.
+
+You can delete unwanted searches by tapping on the delete icon at the right corner of the card.
+
+## Authors
+
+- [@aroshXR](https://github.com/AroshXR)
+
